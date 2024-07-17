@@ -1,0 +1,13 @@
+Backend : ExpressJS
+FrontEnd: React (Vite)
+CSS: Tailwind
+Database: Sequelize
+
+MVP: 
+- CMS
+- Google login
+- Midtrans
+- Cloudinary (upload multi file)
+
+Testing: 
+- User (Login, Register)

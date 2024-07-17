@@ -1,0 +1,15 @@
+Backend : ... (ex: ExpressJS / TypeScript)
+FrontEnd: ... (ex: React (Vite) / React Native / TypeScript)
+CSS: ... (ex: Tailwind / Bootstrap / DaisyUI)
+Database: ... (ex: Sequelize / GraphQL / MongoDB)
+
+MVP: 
+- CMS
+- Midtrans / Node Mailer / Open AI / Cloudinary / Google login / Nama 3RD API
+- Infinite Scroll
+- Forgot password
+- Pagination
+- Search / Filter / Sort
+
+Testing: 
+- User (Login, Register)
